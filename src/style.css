@@ -1,17 +1,5 @@
-@font-face {
-  font-family: Roboto;
-  src: url('fonts/Roboto-VariableFont_wdth,wght.ttf') format('truetype');
-  font-weight: 500;
-  font-style: normal;
-}
-
 :root {
   --moyo-color: #00acdc;
-}
-
-* {
-  margin: 0;
-  padding: 0;
 }
 
 body {
@@ -20,6 +8,7 @@ body {
   font-weight: 500;
   line-height: 15px;
   margin: 0;
+  padding: 0;
 }
 
 .container {
